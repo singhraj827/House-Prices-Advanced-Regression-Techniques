@@ -144,6 +144,6 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or suggestions, feel free to reach out:
 
 - **Email**: er.abhisingh827@gmail.com
-- **GitHub**: [YourGitHubUsername](https://github.com/singhraj827)
+- **GitHub**:(https://github.com/singhraj827)
 
 ---
